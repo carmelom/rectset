@@ -1,5 +1,7 @@
 # rectset
 
+[![DOI](https://zenodo.org/badge/659181965.svg)](https://zenodo.org/badge/latestdoi/659181965)
+
 Analytical potentials for rectangle electrodes in a surface ion trap
 
 ---
