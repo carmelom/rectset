@@ -14,8 +14,8 @@ def test_rectangle_electrode():
     # Square electrode of 20 x 20 um
     # Potential and derivatives along one line at 50 um above the trap plane
 
-    x1, y1 = -10e-6, 10e-6
-    x2, y2 = -10e-6, 10e-6
+    x1, y1 = -10e-6, -10e-6
+    x2, y2 = 10e-6, 10e-6
 
     x = np.linspace(-100, 100) * 1e-6
     y = 0

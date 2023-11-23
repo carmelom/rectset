@@ -1,6 +1,6 @@
 [project]
 name = "rectset"
-version = "1.0.0"
+version = "1.0.1"
 authors = [
   { name = "Carmelo Mordini", email = "carmelo.mordini@gmail.com" },
 ]
