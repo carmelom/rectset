@@ -10,7 +10,7 @@ license = { file = "LICENSE" }
 keywords = ["python", "trapped ions", "surface electrodes", "SET", "ion trap", "quantum computing"]
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: MIT",
+    "License :: OSI Approved :: MIT License",
     "Development Status :: 4 - Beta",
     "Operating System :: OS Independent",
     "Intended Audience :: Science/Research"
